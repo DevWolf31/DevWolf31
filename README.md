@@ -1,6 +1,6 @@
 # Hello, I am MarcosMD09
 
-- I am thinking of creating games in _@defold_.
+- I am thinking of creating games in _**@defold**_.
 - I live in **Cuba**, in the province of **Artemisa**.
   - I can program in ``Lua``  and  ``JavaScript``.
 
@@ -21,3 +21,4 @@ var b = prompt("Input other number: ");
 var c = a + b;
 window.alert("The sum of "+ a +" and "+ b +" is "+ c +".");
 ```
+If you want to see more of my programs in **JavaScript**, go to this [link](https://www.google.com).
