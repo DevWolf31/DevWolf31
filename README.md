@@ -1,8 +1,9 @@
 # Hello, I am MarcosMD09
 
-I am thinking of creating games in **Defold**.
-I live in **Cuba**, in the province of **Artemisa**.
-- I can program in ``Lua``  and  ``JavaScript``
+- I am thinking of creating games in _@defold_.
+- I live in **Cuba**, in the province of **Artemisa**.
+  - I can program in ``Lua``  and  ``JavaScript``.
+
 ## Lua Example:
 ```lua
 local a,b,c = 0
