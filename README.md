@@ -21,4 +21,5 @@ var b = prompt("Input other number: ");
 var c = a + b;
 window.alert("The sum of "+ a +" and "+ b +" is "+ c +".");
 ```
+---
 If you want to see more of my programs in **JavaScript**, go to this [link](https://www.google.com).
