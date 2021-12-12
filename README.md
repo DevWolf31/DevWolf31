@@ -2,7 +2,7 @@
 
 - I am thinking of creating games in _**@defold**_.
 - I live in **Cuba**, in the province of **Artemisa**.
-  - I can program in ``Lua``  and  ``JavaScript``.
+  - I can program in ``Lua``,  ``JavaScript`` and ``TypeScript``.
 
 ## Lua Example:
 ```lua
