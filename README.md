@@ -22,5 +22,10 @@ var c = a + b;
 window.alert("The sum of "+ a +" and "+ b +" is "+ c +".");
 ```
 ---
+
+## Javascript Samples:
+---
 If you want to see more of my programs in **JavaScript**, go to this [link](https://github.com/MarcosMD09/JavaScript-Samples).
+## Windroid System:
+---
 If you want to see my system created for **Java 11**, go to to this [link]().
