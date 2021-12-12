@@ -1,8 +1,8 @@
 # Hello, I am MarcosMD09
 
-- I am thinking of creating games in _**@defold**_.
+- I am creating a system named **Windroid**.
 - I live in **Cuba**, in the province of **Artemisa**.
-  - I can program in ``Lua``, ``Java``, ``JavaScript`` and ``TypeScript``.
+- I can program in ``Lua``, ``Java``, ``JavaScript`` and ``TypeScript``.
 
 ## Lua Example:
 ```lua
