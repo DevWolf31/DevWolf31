@@ -30,6 +30,6 @@ If you want to see more of my programs in **JavaScript**, go to this [link](http
 ---
 I am creating a system called **Windroid** programmed in `JavaScript` using `Electron` as a framework. Soon i will go up the code.
 ## Additional information:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosMD09&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosMD09&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosMD09&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosMD09&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosMD09&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosMD09&theme=gotham)
