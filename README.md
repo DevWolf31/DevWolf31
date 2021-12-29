@@ -28,7 +28,7 @@ window.alert("The sum of "+ a +" and "+ b +" is "+ c +".");
 If you want to see more of my programs in **JavaScript**, go to this [link](https://github.com/MarcosMD09/JavaScript-Samples).
 ## Windroid System:
 ---
-I am creating a system called **Windroid** programmed in `JavaScript` using `Electron` as a framework. Soon i will go up the code.
+I am creating a system called **Windroid** programmed in `JavaScript` using `Electron` as a framework. Tomorrow I will upload the source code of the project.
 ## Additional information:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosMD09&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosMD09&theme=nord_dark)
