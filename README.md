@@ -36,4 +36,4 @@ If you want to see more of my programs in **JavaScript**, go to this [link](http
 ## Additional information:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosMD09&theme=nord_dark" width="100%">
 <img src="https://github-readme-stats.vercel.app/api?username=marcosmd09&show_icons=true&theme=nord" width="100%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmd09&layout=compact&theme=nord">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmd09&layout=compact&theme=nord" width="100%">
