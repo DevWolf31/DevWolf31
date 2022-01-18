@@ -26,10 +26,12 @@ window.alert("The sum of "+ a +" and "+ b +" is "+ c +".");
 ## Connect whit me:
 <a href="https://stackoverflow.com/users/16717129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17074530" height="30" width="40" /></a>
 ## Windroid System:
+<a href="https://github.com/MarcosMD09/Windroid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=windroid&theme=nord" width="100%"></a>
+<br>
 I am creating a system called **Windroid** programmed in `JavaScript` using `Electron` as the framework. The source code is in [this](https://github.com/MarcosMD09/Windroid) repository.
 ## Javascript Samples:
 If you want to see more of my programs in **JavaScript**, go to this [link](https://github.com/MarcosMD09/JavaScript-Samples).
 ## Additional information:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosMD09&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosMD09&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosMD09&theme=nord_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosMD09&theme=nord_dark" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=marcosmd09&show_icons=true&theme=nord" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosMD09&theme=nord_dark" width="100%">
