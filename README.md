@@ -7,7 +7,7 @@
 
 ## Lua Example:
 ```lua
-local a,b,c = 0
+local a,b,c = 0, 0, 0
 io.write("Input one number: ")
 a = io.read()
 io.write("\nInput other number: ")
