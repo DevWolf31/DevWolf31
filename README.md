@@ -29,10 +29,13 @@ window.alert("The sum of "+ a +" and "+ b +" is "+ c +".");
 <a href="https://github.com/MarcosMD09/Windroid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=windroid&theme=nord" width="100%"></a>
 <br>
 I am creating a system called **Windroid** programmed in `JavaScript` using `Electron` as the framework. The source code is in [this](https://github.com/MarcosMD09/Windroid) repository.
-## Javascript Samples:
-<a href="https://github.com/MarcosMD09/JavaScript-Samples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=javascript-samples&theme=nord" width="100%"></a>
-<br>
-If you want to see more of my programs in **JavaScript**, go to this [link](https://github.com/MarcosMD09/JavaScript-Samples).
+<br><br>
+Status: **⛔ Paused ⛔**
+## WLang Language:
+<a href="https://github.com/MarcosMD09/WLang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=wlang&theme=nord"></a>
+I am creating a simple and fast programming language in **Java** named **WLang**.
+<br><br>
+Status: **🚨 Coming Soon 🚨**
 ## Additional information:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosMD09&theme=nord_dark" width="100%">
 <img src="https://github-readme-stats.vercel.app/api?username=marcosmd09&show_icons=true&theme=nord" width="100%">
