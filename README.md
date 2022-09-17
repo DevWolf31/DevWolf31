@@ -2,7 +2,7 @@
 
 - I'm creating a system named **Windroid**.
 - I live in **Cuba**, in the province of **Artemisa**.
-- I can program in ``Lua``, ``Java``, ``JavaScript`` and ``TypeScript``.
+- I can program in `HTML`, `CSS`, `JS`, `TS`, `C` and `C++`.
 - Please 🌟 star 🌟 my pinned repos and i will star 🌟 back your pinned repos.
 - I'm interested on Colobot and Factorio.
 
