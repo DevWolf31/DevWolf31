@@ -32,9 +32,9 @@ window.alert("The sum of "+ a +" and "+ b +" is "+ c +".");
 I am creating a system called **Windroid** programmed in `JavaScript` using `Electron` as the framework. The source code is in [this](https://github.com/MarcosMD09/Windroid) repository.
 <br><br>
 Status: **⛔ Paused ⛔**
-## WLang Language:
+## CScript Language:
 <a href="https://github.com/MarcosMD09/WLang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=wlang&theme=nord"></a>
-I am creating a simple and fast programming language in **Java** named **WLang**.
+I'm creating a fast programming language in **C++** named **CScript**.
 <br><br>
 Status: **🚨 Coming Soon 🚨**
 ## Additional information:
