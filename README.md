@@ -29,12 +29,12 @@ window.alert("The sum of "+ a +" and "+ b +" is "+ c +".");
 ## Windroid System:
 <a href="https://github.com/MarcosMD09/Windroid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=windroid&theme=nord" width="100%"></a>
 <br>
-I am creating a system called **Windroid** programmed in `JavaScript` using `Electron` as the framework. The source code is in [this](https://github.com/MarcosMD09/Windroid) repository.
+A system called **Windroid** programmed in `JavaScript` using `React` and `Electron` as the framework. The source code is in [this](https://github.com/MarcosMD09/Windroid) repository.
 <br><br>
 Status: **⛔ Paused ⛔**
 ## CScript Language:
 <a href="https://github.com/MarcosMD09/WLang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=wlang&theme=nord"></a>
-I'm creating a fast programming language in **C++** named **CScript**.
+A fast language created using **C++**.
 <br><br>
 Status: **🚨 Coming Soon 🚨**
 ## Additional information:
