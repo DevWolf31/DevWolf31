@@ -33,8 +33,8 @@ A system called **Windroid** programmed in **JavaScript** using `React` and `Ele
 <br><br>
 Status: **⛔ Paused ⛔**
 ## CScript Language:
-<a href="https://github.com/MarcosMD09/WLang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=wlang&theme=nord"></a>
-A fast language created using **C++** called **CScript**.
+<a href="https://github.com/MarcosMD09/CLang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=clang&theme=nord"></a>
+A fast language created using **C++** called **CLang**.
 <br><br>
 Status: **🚨 Coming Soon 🚨**
 ## Additional information:
