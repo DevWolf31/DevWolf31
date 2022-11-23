@@ -36,7 +36,7 @@ Status: **⛔ Paused ⛔**
 <a href="https://github.com/MarcosMD09/CLang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=clang&theme=nord"></a>
 A fast language created using **C++** called **CLang**.
 <br><br>
-> I'm having trouble using **C++**'s `std::map`. If someone could help me I would be very grateful.
+- I'm having trouble using **C++**'s `std::map`. If someone could help me I would be very grateful.
 <br><br>
 Status: **🚨 Coming Soon 🚨**
 ## Additional information:
