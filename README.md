@@ -21,7 +21,7 @@ io.write("The sum of "..a.." and "..b.." is "..c..".")
 var a = prompt("Imput one number: ");
 var b = prompt("Input other number: ");
 var c = a + b;
-window.alert("The sum of "+ a +" and "+ b +" is "+ c +".");
+alert("The sum of "+ a +" and "+ b +" is "+ c +".");
 ```
 ---
 ## Connect whit me:
@@ -36,7 +36,7 @@ Status: **⛔ Paused ⛔**
 <a href="https://github.com/MarcosMD09/CLang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=clang&theme=nord"></a>
 A fast language created using **C++** called **CLang**.
 <br>
-I'm planning a new name for this language. It will be possibly "Borum".
+I'm planning a new name for this language. It will be possibly **Borum**.
 <br><br>
 Status: **🚨 Coming Soon 🚨**
 ## Additional information:
