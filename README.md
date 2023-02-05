@@ -32,9 +32,11 @@ window.alert("The sum of "+ a +" and "+ b +" is "+ c +".");
 A system called **Windroid** programmed in **JavaScript** using `React` and `Electron` as the framework. The source code is in [this](https://github.com/MarcosMD09/Windroid) repository.
 <br><br>
 Status: **⛔ Paused ⛔**
-## CScript Language:
+## CLang Language:
 <a href="https://github.com/MarcosMD09/CLang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=clang&theme=nord"></a>
 A fast language created using **C++** called **CLang**.
+<br>
+I'm planning a new name for this language. It will be possibly "Borum".
 <br><br>
 Status: **🚨 Coming Soon 🚨**
 ## Additional information:
