@@ -17,8 +17,6 @@ Status: **⛔ Paused ⛔**
 ## Saturn Language:
 <a href="https://github.com/MarcosMD09/Saturn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=saturn&theme=nord"></a>
 A fast language created using **JAVA** called **Saturn**.
-<br>
-I'm planning a new name for this language. It will be possibly **Borum**.
 <br><br>
 Status: **🚨 Coming Soon 🚨**
 ## Additional information:
