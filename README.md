@@ -15,7 +15,7 @@ A system called **Windroid** programmed in **JS** using `React` and `Electron` a
 <br><br>
 Status: **⛔ Paused ⛔**
 ## Rhea Language:
-<a href="https://github.com/MarcosMD09/Rhea"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=rhea&theme=nord"></a>
+<a href="https://github.com/MarcosMD09/Rhea"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=rhea&theme=nord" width="100%"></a>
 <br>
 A fast language created using **Java&trade;** called **Rhea**.
 <br><br>
