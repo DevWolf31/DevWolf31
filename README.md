@@ -1,9 +1,9 @@
-# Hello, I am Marcos-MD
+# Hello, I am DEV WOLF
 
-- I'm creating a language called **Rhe**.
-- I live in **Cuba**, in the province of **Artemisa**.
-- I can program in `HTML`, `CSS`, `JS`, `TS`, `C`, `C++`, `LUA` and `JAVA`.
-- Please 🌟 star 🌟 my pinned repos and i will star 🌟 back your pinned repos.
+- I'm creating a assembly called **Rhea**.
+- I live in **Cuba**.
+- I can program in `JS`, `TS`, `C`, `C++`, `Lua` and `Java`.
+- Please 🌟 star 🌟 my pinned repos and I will 🌟 star 🌟 back your pinned repos.
 - I'm interested on Colobot and Factorio.
 ---
 ## Connect whit me:
@@ -11,7 +11,7 @@
 ## Windroid System:
 <a href="https://github.com/MarcosMD09/Windroid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosmd09&repo=windroid&theme=nord" width="100%"></a>
 <br>
-A system called **Windroid** programmed in **JS** using `React` and `Electron` as the framework. The source code is in [this](https://github.com/MarcosMD09/Windroid) repository.
+A system simulator called **Windroid**, created in **JS**.
 <br><br>
 Status: **⛔ Paused ⛔**
 ## Rhea Language:
