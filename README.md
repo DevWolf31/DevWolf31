@@ -12,12 +12,12 @@
 A system simulator called **Windroid**, created in **JS**.
 <br><br>
 Status: **⛔ Paused ⛔**
-## Rhea Language:
+## Rhea Emulator:
 <a href="https://github.com/DevWolf31/Rhea"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devwolf31&repo=rhea&theme=nord" width="100%"></a>
 <br>
-An assembly language created using **Java&trade;** called **Rhea**.
+A 65C02 CPU emulator written in **C++**.
 <br><br>
-Status: **🚨 Available 🚨**
+Status: **🚨 Available, but in development 🚨**
 ## Additional information:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevWolf31&theme=nord_dark" width="100%">
 <img src="https://github-readme-stats.vercel.app/api?username=devwolf31&show_icons=true&theme=nord" width="100%">
