@@ -1,8 +1,8 @@
 # Hello, I am DEV WOLF
 
-- I'm creating an assembly called **Rhea** (nothing very serious).
-- I can program in `JS`, `TS`, `C`, `C++`, `Lua` and `Java`.
-- I'm interested on Colobot and Factorio.
+- I'm creating an operating system for X86-based PCs (it's hasn't been released yet).
+- I can program in `JS`, `TS`, `C`, `C++`, `Lua`, `Java` & `Assembly`.
+- I'm interested on embedded and operating systems development.
 ## Connect with me:
 <a href="https://stackoverflow.com/users/16717129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17074530" height="30" width="40" /></a>
 ## Windroid System Simulator:
